@@ -9,30 +9,30 @@ import Eshell from './Eshell';
 
 
 
-const  MainTab = ({title,index}) => {
-  console.log(index)
+const  MainTab = () => {
+  
   return (
 <>
     <Tabs
-      defaultActiveKey="expenses"
+      defaultActiveKey="Ashell"
       id="controlled-tab-example"
       className="mb-3"
       justify
       mt-9
     >
-      <Tab eventKey="Ashell" title="A-Shell">
+      <Tab eventKey="Ashell" title="A-UNDERFRAME">
       <Ashell/>
       </Tab>
-      <Tab eventKey="Bshell" title="B-shell">
+      <Tab eventKey="B-SIDEWALL" title="B-SIDEWALL">
       <Bshell/>
       </Tab>
-      <Tab eventKey="Cshell" title="C-shell">
+      <Tab eventKey="Cshell" title="C-ENDWALL">
         <Cshell/>
       </Tab>
-      <Tab eventKey="Dshell" title="D-shell">
+      <Tab eventKey="Dshell" title="D-ROOF">
         <Dshell/>
       </Tab>
-      <Tab eventKey="Eshell" title="E-shell">
+      <Tab eventKey="Eshell" title="E-SHELL">
         <Eshell/>
       </Tab>
      

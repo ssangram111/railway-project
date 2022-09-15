@@ -5,7 +5,7 @@ const Heading = () => {
   return (
     <>
     {/* navbar */}
-<Table >
+<Table  resoponsive>
       <thead>
         <tr>
           <th><img src= 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQecnI41wYlXqs4sirZMEo9lkyMqHU6E6rQjO-TyVA&s' alt='railway logo'/></th>

@@ -6,7 +6,7 @@ function Eshell() {
     <>
 <Form>
 
-    <Table striped bordered hover>
+    <Table striped bordered hover responsive> 
       <thead>
         <tr>
           <th>SHELL TYPE & NO.</th>

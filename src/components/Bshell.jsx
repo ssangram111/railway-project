@@ -6,7 +6,7 @@ const Bshell = () => {
     <>
     
     <form>
-    <Table striped bordered hover>
+    <Table striped bordered hover responsive>
       <thead>
         <tr>
           <th>SHELL TYPE & NO.</th>
@@ -25,7 +25,7 @@ const Bshell = () => {
        
       </tbody>
     </Table>
-    <h4 className='text-center'>B-Shell</h4>
+    <h4 className='text-center'>B-SIDE WALL</h4>
     <Table responsive bordered>
       <thead>
         <tr>

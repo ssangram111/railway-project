@@ -7,7 +7,7 @@ const Ashell = () => {
     return <>
         <Form>
 
-        <Table striped bordered hover>
+        <Table striped bordered hover responsive>
       <thead>
         <tr>
           <th>SHELL TYPE & NO.</th>
@@ -26,7 +26,7 @@ const Ashell = () => {
        
       </tbody>
     </Table>
-    <h4 className='text-center'>A-Shell</h4>
+    <h4 className='text-center'>A-UNDERFRAME:</h4>
             <Table responsive bordered>
                 <thead >
                     <tr className="p-20">

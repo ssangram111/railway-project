@@ -5,7 +5,7 @@ const Cshell = () => {
   return (
     <>
     <form>
-    <Table striped bordered hover>
+    <Table striped bordered hover responsive>
       <thead>
         <tr>
           <th>SHELL TYPE & NO.</th>
@@ -24,7 +24,7 @@ const Cshell = () => {
        
       </tbody>
     </Table>
-    <h4 className='text-center'>C-Shell</h4>
+    <h4 className='text-center'>C-END WALL</h4>
     <Table responsive bordered>
       <thead>
         <tr>

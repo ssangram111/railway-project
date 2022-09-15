@@ -6,7 +6,7 @@ const Dshell = () => {
 
     return <>
         <Form>
-        <Table striped bordered hover>
+        <Table striped bordered hover responsive>
       <thead>
         <tr>
           <th>SHELL TYPE & NO.</th>
@@ -25,7 +25,7 @@ const Dshell = () => {
        
       </tbody>
     </Table>
-    <h4 className='text-center'>D-Shell</h4>
+    <h4 className='text-center'>D-ROOF</h4>
 
             <Table responsive bordered>
                 <thead >
