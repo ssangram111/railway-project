@@ -341,6 +341,14 @@ element &U/F front part welding</td>
                </Row>
             </Col>
           </td>
+         <td>
+            <Col >
+               <Row>
+               <td><Form.Control /></td>
+               <td><Form.Control /></td>
+               </Row>
+            </Col>
+          </td>
         </tr>
 
         <tr>
